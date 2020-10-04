@@ -1,0 +1,1 @@
+MAPBOX_API_KEY = 'pk.eyJ1IjoieWVwYzBjayIsImEiOiJja2Z2M3oyeTkya2t4MnlzNTRqeXQxcXltIn0.8-aLYje9pSaL3ugPaJc-kA'
